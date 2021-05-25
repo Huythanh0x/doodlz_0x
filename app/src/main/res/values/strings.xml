@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Doodlz 0x</string>
+
+    <string name="button_erase">Erase Image</string>
+    <string name="button_set_color">Set Color</string>
+    <string name="button_set_line_width">Button Set Line Width</string>
+    <string name="line_image_description">This Display The Line Thickness</string>\
+    <string name="label_alpha">Alpha</string>
+    <string name="label_red">Red</string>
+    <string name="label_green">Green</string>
+    <string name="label_blue">Blue</string>
+    <string name="menu_item_color">Color</string>
+    <string name="menu_item_delete">Erase Drawing</string>
+    <string name="menu_item_line_width">Line Width</string>
+    <string name="menu_item_save">Save</string>
+    <string name="menu_item_print">Print</string>
+    <string name="menu_item_erase">Erase Drawing</string>
+    <string name="menu_item_error_saving">There Is An Error While Saving This Image</string>
+    <string name="menu_item_saved">This Image Was Saved, You Can View It In Photo</string>
+    <string name="message_error_printing">Your Device Is Not Support Printing</string>
+    <string name="permission_explanation">To Save Image This App Requires Permission To Write To External Storage</string>
+    <string name="title_color_dialog">Choose Color</string>
+    <string name="title_line_with_dialog">Choose Line Width</string>
+    <string name="message_saved">Image was saved successfully</string>
+    <string name="message_error_saving">There was an error in processing</string>
+    <string name="title_line_width_dialog">Change width pen</string>
+    <string name="message_erase">Do you want to erase image</string>
+
+</resources>

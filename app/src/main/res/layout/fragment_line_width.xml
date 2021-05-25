@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/lineWidthDialogGridLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:columnCount="1"
+    android:orientation="vertical"
+    android:padding="50dp">
+
+
+
+    <ImageView
+        android:id="@+id/widthImageView"
+        android:layout_gravity="fill_horizontal"
+        android:layout_height="50dp"
+        android:layout_row="0"
+        android:layout_column="0"
+        android:layout_marginBottom="30dp"
+        />
+
+    <SeekBar
+        android:id="@+id/widthSeekBar"
+        android:layout_height="wrap_content"
+        android:layout_row="1"
+        android:layout_column="0"
+        android:layout_gravity="fill_horizontal"
+        android:max="50"/>
+</GridLayout>
