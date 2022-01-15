@@ -13,6 +13,6 @@ This project follow a lesson from [this book](https://www.amazon.com/Android-Pro
 
 ## Screenshot from app
 
-|All options|color | line width|
-:----:|:------:|:------:|:-----:
+|All options | color | line width |
+:----:|:------:|:------:
 |![all options](https://github.com/Huythanh0x/doodlz_0x/blob/master/Screenshot_20220115-212031.png) |![color](https://github.com/Huythanh0x/doodlz_0x/blob/master/Screenshot_20220115-212052.png) |![line width](https://github.com/Huythanh0x/doodlz_0x/blob/master/Screenshot_20220115-212104.png) |
